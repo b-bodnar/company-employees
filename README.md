@@ -1,26 +1,57 @@
-## Overview
-Repository with template, details on [javarush](https://javarush.ru/groups/posts/2478-optimiziruem-rabotu-so-svoimi-proektami-na-github-znakomstvo-s-github-template-repository)
+# Overview
 
-## Building
+### It is studying project, where step by step we learn about Spring Framework.
+
+#### Domain area of this project is "_Company and employees who work in them_".
+
+We have two entities:
+
+- **Company**
+    - name
+    - address
+    - phone
+    - region (Europe, Asia, America, Africa, Oceania)
+    - country
+    - city
+    - is this company active
+    - business area
+    - number of offices
+    - number of employees
+- **Employee**
+    - first name
+    - last name
+    - position
+    - is married
+    - the number of years working in the company
+
+# Building
+
 ...
 
 ## Troubleshooting
+
 ...
 
-## Release Notes
+# Release Notes
+
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
-## Authors
+# Authors
+
 * Bohdan Bodnar - [b-bodnar](https://github.com/b-bodnar)
 
-## Acknowledgments
+# Acknowledgments
+
 ...
 
-## Contributing
+# Contributing
+
 Please, follow [Contributing](CONTRIBUTING.md) page.
 
-## Code of Conduct
+# Code of Conduct
+
 Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
 
-## License
+# License
+
 This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
