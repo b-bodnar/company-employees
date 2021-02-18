@@ -1,6 +1,6 @@
 # Overview
 
-### It is studying project, where step by step we learn about Spring Framework.
+### It is education project, where step by step we learn about Spring Framework.
 
 #### Domain area of this project is "_Company and employees who work in them_".
 
