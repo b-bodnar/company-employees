@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 ### It is education project, where step by step we learn about Spring Framework.
 
@@ -23,35 +23,24 @@ We have two entities:
     - position
     - is married
     - the number of years working in the company
+  
 
-# Building
-
-...
-
-## Troubleshooting
-
-...
-
-# Release Notes
+## Release Notes
 
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
-# Authors
+## Authors
 
 * Bohdan Bodnar - [b-bodnar](https://github.com/b-bodnar)
 
-# Acknowledgments
-
-...
-
-# Contributing
+## Contributing
 
 Please, follow [Contributing](CONTRIBUTING.md) page.
 
-# Code of Conduct
+## Code of Conduct
 
 Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
 
-# License
+## License
 
 This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
