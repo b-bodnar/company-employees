@@ -23,7 +23,6 @@ We have two entities:
     - position
     - is married
     - the number of years working in the company
-  
 
 ## Release Notes
 

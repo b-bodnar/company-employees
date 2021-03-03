@@ -1,8 +1,8 @@
 -- create DB
 CREATE SCHEMA `company_employee`;
 
--- create table Region
-create table region
+-- create table Regions
+create table regions
 (
     id   bigserial
         constraint region_pk
@@ -10,8 +10,8 @@ create table region
     name varchar not null
 );
 
--- create table Company
-create table company
+-- create table Companies
+create table companies
 (
     id                bigserial
         constraint company_pk
@@ -30,8 +30,8 @@ create table company
     count_of_employee int
 );
 
--- create table Employee
-create table employee
+-- create table Employees
+create table employees
 (
     id                         bigserial
         constraint employee_pk
